@@ -1,0 +1,1564 @@
+fileFormatVersion: 2
+guid: 3aeb280aa07caa148891a47a136fcee4
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Ellen_Body
+  - first:
+      1: 100004
+    second: Ellen_Chest
+  - first:
+      1: 100006
+    second: Ellen_Hair_FrontalBase
+  - first:
+      1: 100008
+    second: Ellen_Hair_FrontalLeft
+  - first:
+      1: 100010
+    second: Ellen_Hair_FrontalLeftEnd
+  - first:
+      1: 100012
+    second: Ellen_Hair_SideDistal
+  - first:
+      1: 100014
+    second: Ellen_Hair_SideEnd
+  - first:
+      1: 100016
+    second: Ellen_Hair_SideIntermediate
+  - first:
+      1: 100018
+    second: Ellen_Hair_SideProximal
+  - first:
+      1: 100020
+    second: Ellen_HairFrontalRight
+  - first:
+      1: 100022
+    second: Ellen_HairFrontalRightEnd
+  - first:
+      1: 100024
+    second: Ellen_Head
+  - first:
+      1: 100026
+    second: Ellen_HeadEnd
+  - first:
+      1: 100028
+    second: Ellen_Hips
+  - first:
+      1: 100030
+    second: Ellen_Jaw
+  - first:
+      1: 100032
+    second: Ellen_JawEnd
+  - first:
+      1: 100034
+    second: Ellen_Left_Arm
+  - first:
+      1: 100036
+    second: Ellen_Left_Cheek
+  - first:
+      1: 100038
+    second: Ellen_Left_Eye
+  - first:
+      1: 100040
+    second: Ellen_Left_EyebrowDistal
+  - first:
+      1: 100042
+    second: Ellen_Left_EyebrowIntermediate
+  - first:
+      1: 100044
+    second: Ellen_Left_EyebrowProximal
+  - first:
+      1: 100046
+    second: Ellen_Left_Foot
+  - first:
+      1: 100048
+    second: Ellen_Left_Hand
+  - first:
+      1: 100050
+    second: Ellen_Left_Hand_Attach
+  - first:
+      1: 100052
+    second: Ellen_Left_IndexDistal
+  - first:
+      1: 100054
+    second: Ellen_Left_IndexEnd
+  - first:
+      1: 100056
+    second: Ellen_Left_IndexIntermediate
+  - first:
+      1: 100058
+    second: Ellen_Left_IndexProximal
+  - first:
+      1: 100060
+    second: Ellen_Left_LowerEyelid
+  - first:
+      1: 100062
+    second: Ellen_Left_LowerLeg
+  - first:
+      1: 100064
+    second: Ellen_Left_LowerMouth
+  - first:
+      1: 100066
+    second: Ellen_Left_MiddleDistal
+  - first:
+      1: 100068
+    second: Ellen_Left_MiddleEnd
+  - first:
+      1: 100070
+    second: Ellen_Left_MiddleIntermediate
+  - first:
+      1: 100072
+    second: Ellen_Left_MiddleProximal
+  - first:
+      1: 100074
+    second: Ellen_Left_Mouth
+  - first:
+      1: 100076
+    second: Ellen_Left_Nostril
+  - first:
+      1: 100078
+    second: Ellen_Left_PinkyDistal
+  - first:
+      1: 100080
+    second: Ellen_Left_PinkyEnd
+  - first:
+      1: 100082
+    second: Ellen_Left_PinkyIntermediate
+  - first:
+      1: 100084
+    second: Ellen_Left_PinkyProximal
+  - first:
+      1: 100086
+    second: Ellen_Left_RingDistal
+  - first:
+      1: 100088
+    second: Ellen_Left_RingEnd
+  - first:
+      1: 100090
+    second: Ellen_Left_RingIntermediate
+  - first:
+      1: 100092
+    second: Ellen_Left_RingProximal
+  - first:
+      1: 100094
+    second: Ellen_Left_Shoulder
+  - first:
+      1: 100096
+    second: Ellen_Left_ThumbDistal
+  - first:
+      1: 100098
+    second: Ellen_Left_ThumbEnd
+  - first:
+      1: 100100
+    second: Ellen_Left_ThumbIntermediate
+  - first:
+      1: 100102
+    second: Ellen_Left_ThumbProximal
+  - first:
+      1: 100104
+    second: Ellen_Left_ToeEnd
+  - first:
+      1: 100106
+    second: Ellen_Left_Toes
+  - first:
+      1: 100108
+    second: Ellen_Left_UpperArm
+  - first:
+      1: 100110
+    second: Ellen_Left_UpperEyelid
+  - first:
+      1: 100112
+    second: Ellen_Left_UpperLeg
+  - first:
+      1: 100114
+    second: Ellen_Left_UpperMouth
+  - first:
+      1: 100116
+    second: Ellen_LowerMouth
+  - first:
+      1: 100118
+    second: Ellen_Neck
+  - first:
+      1: 100120
+    second: Ellen_Right_Arm
+  - first:
+      1: 100122
+    second: Ellen_Right_Cheek
+  - first:
+      1: 100124
+    second: Ellen_Right_Eye
+  - first:
+      1: 100126
+    second: Ellen_Right_EyebrowDistal
+  - first:
+      1: 100128
+    second: Ellen_Right_EyebrowIntermediate
+  - first:
+      1: 100130
+    second: Ellen_Right_EyebrowProximal
+  - first:
+      1: 100132
+    second: Ellen_Right_Foot
+  - first:
+      1: 100134
+    second: Ellen_Right_Hand
+  - first:
+      1: 100136
+    second: Ellen_Right_Hand_Attach
+  - first:
+      1: 100138
+    second: Ellen_Right_IndexDistal
+  - first:
+      1: 100140
+    second: Ellen_Right_IndexEnd
+  - first:
+      1: 100142
+    second: Ellen_Right_IndexIntermediate
+  - first:
+      1: 100144
+    second: Ellen_Right_IndexProximal
+  - first:
+      1: 100146
+    second: Ellen_Right_LowerEyelid
+  - first:
+      1: 100148
+    second: Ellen_Right_LowerLeg
+  - first:
+      1: 100150
+    second: Ellen_Right_LowerMouth
+  - first:
+      1: 100152
+    second: Ellen_Right_MiddleDistal
+  - first:
+      1: 100154
+    second: Ellen_Right_MiddleEnd
+  - first:
+      1: 100156
+    second: Ellen_Right_MiddleIntermediate
+  - first:
+      1: 100158
+    second: Ellen_Right_MiddleProximal
+  - first:
+      1: 100160
+    second: Ellen_Right_Mouth
+  - first:
+      1: 100162
+    second: Ellen_Right_Nostril
+  - first:
+      1: 100164
+    second: Ellen_Right_PinkyDistal
+  - first:
+      1: 100166
+    second: Ellen_Right_PinkyEnd
+  - first:
+      1: 100168
+    second: Ellen_Right_PinkyIntermediate
+  - first:
+      1: 100170
+    second: Ellen_Right_PinkyProximal
+  - first:
+      1: 100172
+    second: Ellen_Right_RingDistal
+  - first:
+      1: 100174
+    second: Ellen_Right_RingEnd
+  - first:
+      1: 100176
+    second: Ellen_Right_RingIntermediate
+  - first:
+      1: 100178
+    second: Ellen_Right_RingProximal
+  - first:
+      1: 100180
+    second: Ellen_Right_Shoulder
+  - first:
+      1: 100182
+    second: Ellen_Right_ThumbDistal
+  - first:
+      1: 100184
+    second: Ellen_Right_ThumbEnd
+  - first:
+      1: 100186
+    second: Ellen_Right_ThumbIntermediate
+  - first:
+      1: 100188
+    second: Ellen_Right_ThumbProximal
+  - first:
+      1: 100190
+    second: Ellen_Right_ToeEnd
+  - first:
+      1: 100192
+    second: Ellen_Right_Toes
+  - first:
+      1: 100194
+    second: Ellen_Right_UpperArm
+  - first:
+      1: 100196
+    second: Ellen_Right_UpperEyelid
+  - first:
+      1: 100198
+    second: Ellen_Right_UpperLeg
+  - first:
+      1: 100200
+    second: Ellen_Right_UpperMouth
+  - first:
+      1: 100202
+    second: Ellen_Root
+  - first:
+      1: 100204
+    second: Ellen_Skeleton
+  - first:
+      1: 100206
+    second: Ellen_Spine
+  - first:
+      1: 100208
+    second: Ellen_TongueDistal
+  - first:
+      1: 100210
+    second: Ellen_TongueEnd
+  - first:
+      1: 100212
+    second: Ellen_TongueProximal
+  - first:
+      1: 100214
+    second: Ellen_UpperChest
+  - first:
+      1: 100216
+    second: Ellen_UpperMouth
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Ellen_Body
+  - first:
+      4: 400004
+    second: Ellen_Chest
+  - first:
+      4: 400006
+    second: Ellen_Hair_FrontalBase
+  - first:
+      4: 400008
+    second: Ellen_Hair_FrontalLeft
+  - first:
+      4: 400010
+    second: Ellen_Hair_FrontalLeftEnd
+  - first:
+      4: 400012
+    second: Ellen_Hair_SideDistal
+  - first:
+      4: 400014
+    second: Ellen_Hair_SideEnd
+  - first:
+      4: 400016
+    second: Ellen_Hair_SideIntermediate
+  - first:
+      4: 400018
+    second: Ellen_Hair_SideProximal
+  - first:
+      4: 400020
+    second: Ellen_HairFrontalRight
+  - first:
+      4: 400022
+    second: Ellen_HairFrontalRightEnd
+  - first:
+      4: 400024
+    second: Ellen_Head
+  - first:
+      4: 400026
+    second: Ellen_HeadEnd
+  - first:
+      4: 400028
+    second: Ellen_Hips
+  - first:
+      4: 400030
+    second: Ellen_Jaw
+  - first:
+      4: 400032
+    second: Ellen_JawEnd
+  - first:
+      4: 400034
+    second: Ellen_Left_Arm
+  - first:
+      4: 400036
+    second: Ellen_Left_Cheek
+  - first:
+      4: 400038
+    second: Ellen_Left_Eye
+  - first:
+      4: 400040
+    second: Ellen_Left_EyebrowDistal
+  - first:
+      4: 400042
+    second: Ellen_Left_EyebrowIntermediate
+  - first:
+      4: 400044
+    second: Ellen_Left_EyebrowProximal
+  - first:
+      4: 400046
+    second: Ellen_Left_Foot
+  - first:
+      4: 400048
+    second: Ellen_Left_Hand
+  - first:
+      4: 400050
+    second: Ellen_Left_Hand_Attach
+  - first:
+      4: 400052
+    second: Ellen_Left_IndexDistal
+  - first:
+      4: 400054
+    second: Ellen_Left_IndexEnd
+  - first:
+      4: 400056
+    second: Ellen_Left_IndexIntermediate
+  - first:
+      4: 400058
+    second: Ellen_Left_IndexProximal
+  - first:
+      4: 400060
+    second: Ellen_Left_LowerEyelid
+  - first:
+      4: 400062
+    second: Ellen_Left_LowerLeg
+  - first:
+      4: 400064
+    second: Ellen_Left_LowerMouth
+  - first:
+      4: 400066
+    second: Ellen_Left_MiddleDistal
+  - first:
+      4: 400068
+    second: Ellen_Left_MiddleEnd
+  - first:
+      4: 400070
+    second: Ellen_Left_MiddleIntermediate
+  - first:
+      4: 400072
+    second: Ellen_Left_MiddleProximal
+  - first:
+      4: 400074
+    second: Ellen_Left_Mouth
+  - first:
+      4: 400076
+    second: Ellen_Left_Nostril
+  - first:
+      4: 400078
+    second: Ellen_Left_PinkyDistal
+  - first:
+      4: 400080
+    second: Ellen_Left_PinkyEnd
+  - first:
+      4: 400082
+    second: Ellen_Left_PinkyIntermediate
+  - first:
+      4: 400084
+    second: Ellen_Left_PinkyProximal
+  - first:
+      4: 400086
+    second: Ellen_Left_RingDistal
+  - first:
+      4: 400088
+    second: Ellen_Left_RingEnd
+  - first:
+      4: 400090
+    second: Ellen_Left_RingIntermediate
+  - first:
+      4: 400092
+    second: Ellen_Left_RingProximal
+  - first:
+      4: 400094
+    second: Ellen_Left_Shoulder
+  - first:
+      4: 400096
+    second: Ellen_Left_ThumbDistal
+  - first:
+      4: 400098
+    second: Ellen_Left_ThumbEnd
+  - first:
+      4: 400100
+    second: Ellen_Left_ThumbIntermediate
+  - first:
+      4: 400102
+    second: Ellen_Left_ThumbProximal
+  - first:
+      4: 400104
+    second: Ellen_Left_ToeEnd
+  - first:
+      4: 400106
+    second: Ellen_Left_Toes
+  - first:
+      4: 400108
+    second: Ellen_Left_UpperArm
+  - first:
+      4: 400110
+    second: Ellen_Left_UpperEyelid
+  - first:
+      4: 400112
+    second: Ellen_Left_UpperLeg
+  - first:
+      4: 400114
+    second: Ellen_Left_UpperMouth
+  - first:
+      4: 400116
+    second: Ellen_LowerMouth
+  - first:
+      4: 400118
+    second: Ellen_Neck
+  - first:
+      4: 400120
+    second: Ellen_Right_Arm
+  - first:
+      4: 400122
+    second: Ellen_Right_Cheek
+  - first:
+      4: 400124
+    second: Ellen_Right_Eye
+  - first:
+      4: 400126
+    second: Ellen_Right_EyebrowDistal
+  - first:
+      4: 400128
+    second: Ellen_Right_EyebrowIntermediate
+  - first:
+      4: 400130
+    second: Ellen_Right_EyebrowProximal
+  - first:
+      4: 400132
+    second: Ellen_Right_Foot
+  - first:
+      4: 400134
+    second: Ellen_Right_Hand
+  - first:
+      4: 400136
+    second: Ellen_Right_Hand_Attach
+  - first:
+      4: 400138
+    second: Ellen_Right_IndexDistal
+  - first:
+      4: 400140
+    second: Ellen_Right_IndexEnd
+  - first:
+      4: 400142
+    second: Ellen_Right_IndexIntermediate
+  - first:
+      4: 400144
+    second: Ellen_Right_IndexProximal
+  - first:
+      4: 400146
+    second: Ellen_Right_LowerEyelid
+  - first:
+      4: 400148
+    second: Ellen_Right_LowerLeg
+  - first:
+      4: 400150
+    second: Ellen_Right_LowerMouth
+  - first:
+      4: 400152
+    second: Ellen_Right_MiddleDistal
+  - first:
+      4: 400154
+    second: Ellen_Right_MiddleEnd
+  - first:
+      4: 400156
+    second: Ellen_Right_MiddleIntermediate
+  - first:
+      4: 400158
+    second: Ellen_Right_MiddleProximal
+  - first:
+      4: 400160
+    second: Ellen_Right_Mouth
+  - first:
+      4: 400162
+    second: Ellen_Right_Nostril
+  - first:
+      4: 400164
+    second: Ellen_Right_PinkyDistal
+  - first:
+      4: 400166
+    second: Ellen_Right_PinkyEnd
+  - first:
+      4: 400168
+    second: Ellen_Right_PinkyIntermediate
+  - first:
+      4: 400170
+    second: Ellen_Right_PinkyProximal
+  - first:
+      4: 400172
+    second: Ellen_Right_RingDistal
+  - first:
+      4: 400174
+    second: Ellen_Right_RingEnd
+  - first:
+      4: 400176
+    second: Ellen_Right_RingIntermediate
+  - first:
+      4: 400178
+    second: Ellen_Right_RingProximal
+  - first:
+      4: 400180
+    second: Ellen_Right_Shoulder
+  - first:
+      4: 400182
+    second: Ellen_Right_ThumbDistal
+  - first:
+      4: 400184
+    second: Ellen_Right_ThumbEnd
+  - first:
+      4: 400186
+    second: Ellen_Right_ThumbIntermediate
+  - first:
+      4: 400188
+    second: Ellen_Right_ThumbProximal
+  - first:
+      4: 400190
+    second: Ellen_Right_ToeEnd
+  - first:
+      4: 400192
+    second: Ellen_Right_Toes
+  - first:
+      4: 400194
+    second: Ellen_Right_UpperArm
+  - first:
+      4: 400196
+    second: Ellen_Right_UpperEyelid
+  - first:
+      4: 400198
+    second: Ellen_Right_UpperLeg
+  - first:
+      4: 400200
+    second: Ellen_Right_UpperMouth
+  - first:
+      4: 400202
+    second: Ellen_Root
+  - first:
+      4: 400204
+    second: Ellen_Skeleton
+  - first:
+      4: 400206
+    second: Ellen_Spine
+  - first:
+      4: 400208
+    second: Ellen_TongueDistal
+  - first:
+      4: 400210
+    second: Ellen_TongueEnd
+  - first:
+      4: 400212
+    second: Ellen_TongueProximal
+  - first:
+      4: 400214
+    second: Ellen_UpperChest
+  - first:
+      4: 400216
+    second: Ellen_UpperMouth
+  - first:
+      43: 4300000
+    second: Ellen_Body
+  - first:
+      74: 7400000
+    second: EllenCombo1
+  - first:
+      74: 7400002
+    second: EllenCombo1Exit
+  - first:
+      74: 7400004
+    second: EllenCombo1
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Ellen_Body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: e61f771c3460146f5875519e3e9c6ff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ellen_Body_Mat
+    second: {fileID: 2100000, guid: 016381b9be8934122896661e56546573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ellen_Eyes_Mat
+    second: {fileID: 2100000, guid: 3b3601a8367b14c5d96e33317f729226, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ellen_Hair_Mat
+    second: {fileID: 2100000, guid: 7000a864083a54d17bb29d8a0c311ff0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ellen_Head_Mat
+    second: {fileID: 2100000, guid: b6244ee9274df4db29d43aac585f6c73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ellen_Tear_Mat
+    second: {fileID: 2100000, guid: a7992b3277ce2485286da2211e51e783, type: 2}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: EllenCombo1
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 4
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.088842474
+        functionName: MeleeAttackStart
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.3317473
+        functionName: MeleeAttackEnd
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ellen_Body
+        weight: 1
+      - path: Ellen_Skeleton
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Left_UpperLeg
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Left_UpperLeg/Ellen_Left_LowerLeg
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Left_UpperLeg/Ellen_Left_LowerLeg/Ellen_Left_Foot
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Left_UpperLeg/Ellen_Left_LowerLeg/Ellen_Left_Foot/Ellen_Left_Toes
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Left_UpperLeg/Ellen_Left_LowerLeg/Ellen_Left_Foot/Ellen_Left_Toes/Ellen_Left_ToeEnd
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Right_UpperLeg
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Right_UpperLeg/Ellen_Right_LowerLeg
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Right_UpperLeg/Ellen_Right_LowerLeg/Ellen_Right_Foot
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Right_UpperLeg/Ellen_Right_LowerLeg/Ellen_Right_Foot/Ellen_Right_Toes
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Right_UpperLeg/Ellen_Right_LowerLeg/Ellen_Right_Foot/Ellen_Right_Toes/Ellen_Right_ToeEnd
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_Hand_Attach
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_IndexProximal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_IndexProximal/Ellen_Left_IndexIntermediate
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_IndexProximal/Ellen_Left_IndexIntermediate/Ellen_Left_IndexDistal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_IndexProximal/Ellen_Left_IndexIntermediate/Ellen_Left_IndexDistal/Ellen_Left_IndexEnd
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_MiddleProximal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_MiddleProximal/Ellen_Left_MiddleIntermediate
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_MiddleProximal/Ellen_Left_MiddleIntermediate/Ellen_Left_MiddleDistal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_MiddleProximal/Ellen_Left_MiddleIntermediate/Ellen_Left_MiddleDistal/Ellen_Left_MiddleEnd
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_PinkyProximal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_PinkyProximal/Ellen_Left_PinkyIntermediate
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_PinkyProximal/Ellen_Left_PinkyIntermediate/Ellen_Left_PinkyDistal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_PinkyProximal/Ellen_Left_PinkyIntermediate/Ellen_Left_PinkyDistal/Ellen_Left_PinkyEnd
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_RingProximal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_RingProximal/Ellen_Left_RingIntermediate
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_RingProximal/Ellen_Left_RingIntermediate/Ellen_Left_RingDistal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_RingProximal/Ellen_Left_RingIntermediate/Ellen_Left_RingDistal/Ellen_Left_RingEnd
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_ThumbProximal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_ThumbProximal/Ellen_Left_ThumbIntermediate
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_ThumbProximal/Ellen_Left_ThumbIntermediate/Ellen_Left_ThumbDistal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Left_Shoulder/Ellen_Left_UpperArm/Ellen_Left_Arm/Ellen_Left_Hand/Ellen_Left_ThumbProximal/Ellen_Left_ThumbIntermediate/Ellen_Left_ThumbDistal/Ellen_Left_ThumbEnd
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Hair_FrontalBase
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Hair_FrontalBase/Ellen_Hair_FrontalLeft
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Hair_FrontalBase/Ellen_Hair_FrontalLeft/Ellen_Hair_FrontalLeftEnd
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Hair_FrontalBase/Ellen_HairFrontalRight
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Hair_FrontalBase/Ellen_HairFrontalRight/Ellen_HairFrontalRightEnd
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Hair_SideProximal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Hair_SideProximal/Ellen_Hair_SideIntermediate
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Hair_SideProximal/Ellen_Hair_SideIntermediate/Ellen_Hair_SideDistal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Hair_SideProximal/Ellen_Hair_SideIntermediate/Ellen_Hair_SideDistal/Ellen_Hair_SideEnd
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_HeadEnd
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Jaw
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Jaw/Ellen_JawEnd
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Jaw/Ellen_Left_LowerMouth
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Jaw/Ellen_LowerMouth
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Jaw/Ellen_Right_LowerMouth
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Left_Cheek
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Left_Eye
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Left_EyebrowDistal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Left_EyebrowIntermediate
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Left_EyebrowProximal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Left_LowerEyelid
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Left_Mouth
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Left_Nostril
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Left_UpperEyelid
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Left_UpperMouth
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Right_Cheek
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Right_Eye
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Right_EyebrowDistal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Right_EyebrowIntermediate
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Right_EyebrowProximal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Right_LowerEyelid
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Right_Mouth
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Right_Nostril
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Right_UpperEyelid
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_Right_UpperMouth
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_TongueProximal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_TongueProximal/Ellen_TongueDistal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_TongueProximal/Ellen_TongueDistal/Ellen_TongueEnd
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Neck/Ellen_Head/Ellen_UpperMouth
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_Hand_Attach
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_IndexProximal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_IndexProximal/Ellen_Right_IndexIntermediate
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_IndexProximal/Ellen_Right_IndexIntermediate/Ellen_Right_IndexDistal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_IndexProximal/Ellen_Right_IndexIntermediate/Ellen_Right_IndexDistal/Ellen_Right_IndexEnd
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_MiddleProximal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_MiddleProximal/Ellen_Right_MiddleIntermediate
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_MiddleProximal/Ellen_Right_MiddleIntermediate/Ellen_Right_MiddleDistal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_MiddleProximal/Ellen_Right_MiddleIntermediate/Ellen_Right_MiddleDistal/Ellen_Right_MiddleEnd
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_PinkyProximal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_PinkyProximal/Ellen_Right_PinkyIntermediate
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_PinkyProximal/Ellen_Right_PinkyIntermediate/Ellen_Right_PinkyDistal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_PinkyProximal/Ellen_Right_PinkyIntermediate/Ellen_Right_PinkyDistal/Ellen_Right_PinkyEnd
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_RingProximal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_RingProximal/Ellen_Right_RingIntermediate
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_RingProximal/Ellen_Right_RingIntermediate/Ellen_Right_RingDistal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_RingProximal/Ellen_Right_RingIntermediate/Ellen_Right_RingDistal/Ellen_Right_RingEnd
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_ThumbProximal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_ThumbProximal/Ellen_Right_ThumbIntermediate
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_ThumbProximal/Ellen_Right_ThumbIntermediate/Ellen_Right_ThumbDistal
+        weight: 1
+      - path: Ellen_Skeleton/Ellen_Root/Ellen_Hips/Ellen_Spine/Ellen_Chest/Ellen_UpperChest/Ellen_Right_Shoulder/Ellen_Right_UpperArm/Ellen_Right_Arm/Ellen_Right_Hand/Ellen_Right_ThumbProximal/Ellen_Right_ThumbIntermediate/Ellen_Right_ThumbDistal/Ellen_Right_ThumbEnd
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 2
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Avatar_Kiana_C2_Model(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.0000015784651, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip001
+      parentName: Avatar_Kiana_C2_Model(Clone)
+      position: {x: -0, y: 0.966595, z: 0.06609042}
+      rotation: {x: -0.50000036, y: 0.49999964, z: 0.49999964, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Bip001 Prop1
+      parentName: Bip001
+      position: {x: 0.057214625, y: -0.42345622, z: 0.046766967}
+      rotation: {x: 0.02197157, y: -0.021819338, z: 0.70922095, w: 0.704306}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Bip001 Prop2
+      parentName: Bip001
+      position: {x: 0.057214625, y: 0.42345622, z: 0.046766967}
+      rotation: {x: 0.70921993, y: 0.70430696, z: -0.021971662, w: 0.02181949}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: Bip001 Pelvis
+      parentName: Bip001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Bip001 Spine
+      parentName: Bip001 Pelvis
+      position: {x: -0.09603218, y: 0.022887582, z: 0.00000012229101}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999998}
+    - name: Bip001 Spine1
+      parentName: Bip001 Spine
+      position: {x: -0.063146055, y: -0.00008328438, z: -2.3097527e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: Bip001 Spine2
+      parentName: Bip001 Spine1
+      position: {x: -0.1053614, y: -0.00011041641, z: -3.0622685e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 0.9999999, z: 0.9999999}
+    - name: Bip001 Neck
+      parentName: Bip001 Spine2
+      position: {x: -0.16852112, y: -0.049164925, z: -0.00000011921394}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+    - name: Bip001 L Clavicle
+      parentName: Bip001 Neck
+      position: {x: 0.02062866, y: 0.007951708, z: 0.028893003}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Bip001 L UpperArm
+      parentName: Bip001 L Clavicle
+      position: {x: -0.091381945, y: -0.000000038146972, z: 0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000007, z: 1.0000008}
+    - name: Bip001 L Forearm
+      parentName: Bip001 L UpperArm
+      position: {x: -0.22691832, y: 0, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: Bip001 L Hand
+      parentName: Bip001 L Forearm
+      position: {x: -0.22616005, y: 0, z: 0.000000076293944}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Link_L
+      parentName: Bip001 L Hand
+      position: {x: -0.12060421, y: 0.039873734, z: -0.018005218}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000004}
+    - name: Bip001 L Finger0
+      parentName: Bip001 L Hand
+      position: {x: -0.02825222, y: 0.014645233, z: -0.027448205}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: Bip001 L Finger01
+      parentName: Bip001 L Finger0
+      position: {x: -0.03543888, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: Bip001 L Finger02
+      parentName: Bip001 L Finger01
+      position: {x: -0.021301728, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Bip001 L Finger0Nub
+      parentName: Bip001 L Finger02
+      position: {x: -0.02822029, y: 0.000000038146972, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Bip001 L Finger1
+      parentName: Bip001 L Hand
+      position: {x: -0.085400544, y: 0.0035725401, z: -0.02577711}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000006}
+    - name: Bip001 L Finger11
+      parentName: Bip001 L Finger1
+      position: {x: -0.030594252, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999998, z: 1.0000002}
+    - name: Bip001 L Finger12
+      parentName: Bip001 L Finger11
+      position: {x: -0.022075577, y: -0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.000001, z: 1.0000007}
+    - name: Bip001 L Finger1Nub
+      parentName: Bip001 L Finger12
+      position: {x: -0.021167144, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Bip001 L Finger2
+      parentName: Bip001 L Hand
+      position: {x: -0.085131414, y: -0.002657547, z: -0.0067419624}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.0000004}
+    - name: Bip001 L Finger21
+      parentName: Bip001 L Finger2
+      position: {x: -0.0365102, y: 0.000000076293944, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000002}
+    - name: Bip001 L Finger22
+      parentName: Bip001 L Finger21
+      position: {x: -0.025160866, y: -0.00000015258789, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000005}
+    - name: Bip001 L Finger2Nub
+      parentName: Bip001 L Finger22
+      position: {x: -0.022871818, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip001 L Finger3
+      parentName: Bip001 L Hand
+      position: {x: -0.08335403, y: 0.0036241913, z: 0.0134859085}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000008}
+    - name: Bip001 L Finger31
+      parentName: Bip001 L Finger3
+      position: {x: -0.032739256, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000006}
+    - name: Bip001 L Finger32
+      parentName: Bip001 L Finger31
+      position: {x: -0.027553406, y: 0, z: 0.000000014305114}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 1.0000007, z: 1.0000005}
+    - name: Bip001 L Finger3Nub
+      parentName: Bip001 L Finger32
+      position: {x: -0.02116726, y: 0, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Bip001 L Finger4
+      parentName: Bip001 L Hand
+      position: {x: -0.07227565, y: 0.009575347, z: 0.02891676}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000004}
+    - name: Bip001 L Finger41
+      parentName: Bip001 L Finger4
+      position: {x: -0.02206291, y: 0.000000076293944, z: 0.000000028610229}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000004}
+    - name: Bip001 L Finger42
+      parentName: Bip001 L Finger41
+      position: {x: -0.018253556, y: 0, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: Bip001 L Finger4Nub
+      parentName: Bip001 L Finger42
+      position: {x: -0.017639313, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Bip001 R Clavicle
+      parentName: Bip001 Neck
+      position: {x: 0.02062866, y: 0.00795186, z: -0.028892994}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000002}
+    - name: Bip001 R UpperArm
+      parentName: Bip001 R Clavicle
+      position: {x: -0.09138197, y: -0.000000038146972, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 1.0000001, z: 0.99999994}
+    - name: Bip001 R Forearm
+      parentName: Bip001 R UpperArm
+      position: {x: -0.22691825, y: 0, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000004}
+    - name: Bip001 R Hand
+      parentName: Bip001 R Forearm
+      position: {x: -0.22615997, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1}
+    - name: Link_R
+      parentName: Bip001 R Hand
+      position: {x: -0.11908233, y: 0.045057755, z: 0.01852889}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000005, z: 1.0000005}
+    - name: Bip001 R Finger0
+      parentName: Bip001 R Hand
+      position: {x: -0.02825218, y: 0.014645156, z: 0.027448215}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000001}
+    - name: Bip001 R Finger01
+      parentName: Bip001 R Finger0
+      position: {x: -0.035438996, y: 0.000000038146972, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 0.9999997, z: 0.99999994}
+    - name: Bip001 R Finger02
+      parentName: Bip001 R Finger01
+      position: {x: -0.021301651, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: Bip001 R Finger0Nub
+      parentName: Bip001 R Finger02
+      position: {x: -0.02822033, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: -1, z: -1}
+    - name: Bip001 R Finger1
+      parentName: Bip001 R Hand
+      position: {x: -0.08540058, y: 0.0035725401, z: 0.02577711}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.9999998}
+    - name: Bip001 R Finger11
+      parentName: Bip001 R Finger1
+      position: {x: -0.030594215, y: 0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1}
+    - name: Bip001 R Finger12
+      parentName: Bip001 R Finger11
+      position: {x: -0.022075538, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000002}
+    - name: Bip001 R Finger1Nub
+      parentName: Bip001 R Finger12
+      position: {x: -0.02116722, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: -1, z: -1}
+    - name: Bip001 R Finger2
+      parentName: Bip001 R Hand
+      position: {x: -0.085131414, y: -0.002657547, z: 0.0067419717}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999994}
+    - name: Bip001 R Finger21
+      parentName: Bip001 R Finger2
+      position: {x: -0.0365102, y: 0.000000076293944, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999994}
+    - name: Bip001 R Finger22
+      parentName: Bip001 R Finger21
+      position: {x: -0.025160866, y: -0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 0.99999994}
+    - name: Bip001 R Finger2Nub
+      parentName: Bip001 R Finger22
+      position: {x: -0.022871856, y: 0, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -0.99999994, y: -1, z: -0.99999994}
+    - name: Bip001 R Finger3
+      parentName: Bip001 R Hand
+      position: {x: -0.08335403, y: 0.0036241913, z: -0.0134859085}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.9999997}
+    - name: Bip001 R Finger31
+      parentName: Bip001 R Finger3
+      position: {x: -0.03273922, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1}
+    - name: Bip001 R Finger32
+      parentName: Bip001 R Finger31
+      position: {x: -0.027553406, y: -0.000000076293944, z: -0.0000000047683715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1}
+    - name: Bip001 R Finger3Nub
+      parentName: Bip001 R Finger32
+      position: {x: -0.02116722, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -0.99999994, y: -1, z: -0.99999994}
+    - name: Bip001 R Finger4
+      parentName: Bip001 R Hand
+      position: {x: -0.07227569, y: 0.009575271, z: -0.028916769}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 0.9999996, z: 0.9999997}
+    - name: Bip001 R Finger41
+      parentName: Bip001 R Finger4
+      position: {x: -0.022063026, y: -0.000000076293944, z: -0.000000028610229}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1}
+    - name: Bip001 R Finger42
+      parentName: Bip001 R Finger41
+      position: {x: -0.01825344, y: -0.000000076293944, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1}
+    - name: Bip001 R Finger4Nub
+      parentName: Bip001 R Finger42
+      position: {x: -0.017639313, y: 0, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -0.99999994, y: -1, z: -1}
+    - name: Bip001 Head
+      parentName: Bip001 Neck
+      position: {x: -0.06645691, y: 0.0000000047683715, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000008, z: 1.0000002}
+    - name: Bip001 HeadNub
+      parentName: Bip001 Head
+      position: {x: -0.21146117, y: -0.000000009536743, z: -1.8189894e-14}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Bone001(mirrored)
+      parentName: Bip001 Head
+      position: {x: -0.08095749, y: -0.04800061, z: 0.050950006}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000004}
+    - name: Bone002(mirrored)
+      parentName: Bone001(mirrored)
+      position: {x: -0.11837348, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1.0000001}
+    - name: Bone003(mirrored)
+      parentName: Bone002(mirrored)
+      position: {x: -0.07766571, y: -0.000000076293944, z: -0.00000019073485}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000005}
+    - name: Bone004(mirrored)
+      parentName: Bone003(mirrored)
+      position: {x: -0.07043945, y: 0.00000015258789, z: 0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.9999996, z: 0.99999934}
+    - name: Bone005(mirrored)
+      parentName: Bone004(mirrored)
+      position: {x: -0.07306434, y: -0.000000076293944, z: 0.000000114440915}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.9999997, z: 1.0000004}
+    - name: Bone006(mirrored)
+      parentName: Bone005(mirrored)
+      position: {x: -0.061550025, y: -0.000000076293944, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999997}
+    - name: Bone007(mirrored)
+      parentName: Bone006(mirrored)
+      position: {x: -0.060448226, y: -0.00000030517577, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000008}
+    - name: Bone008(mirrored)
+      parentName: Bone007(mirrored)
+      position: {x: -0.0689138, y: 0.00000030517577, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999996, y: 1, z: 0.9999997}
+    - name: Bone009(mirrored)
+      parentName: Bone008(mirrored)
+      position: {x: -0.07886207, y: 0.00000061035155, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000001, z: 0.9999994}
+    - name: Bone001
+      parentName: Bip001 Head
+      position: {x: -0.08095734, y: -0.04800046, z: -0.05095505}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: Bone002
+      parentName: Bone001
+      position: {x: -0.118373565, y: -0.000000076293944, z: -2.1316282e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1.0000002}
+    - name: Bone003
+      parentName: Bone002
+      position: {x: -0.077665634, y: -1.4210854e-16, z: -0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+    - name: Bone004
+      parentName: Bone003
+      position: {x: -0.07043945, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.99999994, z: 1}
+    - name: Bone005
+      parentName: Bone004
+      position: {x: -0.07306419, y: -0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: Bone006
+      parentName: Bone005
+      position: {x: -0.06155014, y: 0.00000015258789, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1}
+    - name: Bone007
+      parentName: Bone006
+      position: {x: -0.060448, y: 0.00000022888183, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.0000002}
+    - name: Bone008
+      parentName: Bone007
+      position: {x: -0.06891395, y: -0.00000015258789, z: 1.4210854e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000002}
+    - name: Bone009
+      parentName: Bone008
+      position: {x: -0.0788623, y: -0.00000045776366, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.9999998, z: 1.0000002}
+    - name: Bone021
+      parentName: Bip001 Spine2
+      position: {x: -0.049029235, y: 0.03350723, z: -0.040000115}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000014, z: 0.9999994}
+    - name: Bone022
+      parentName: Bone021
+      position: {x: -0.07960125, y: -0.000000076293944, z: -0.00000021934508}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 0.9999998, z: 0.99999994}
+    - name: Bone023
+      parentName: Bip001 Spine2
+      position: {x: -0.049029235, y: 0.033507157, z: 0.040000018}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000005}
+    - name: Bone024
+      parentName: Bone023
+      position: {x: -0.07960129, y: -0.000000076293944, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 0.99999994, z: 0.9999999}
+    - name: Bip001 L Thigh
+      parentName: Bip001 Spine
+      position: {x: 0.097920835, y: -0.012550897, z: 0.080567084}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000004, y: 1, z: 1.0000001}
+    - name: Bip001 L Calf
+      parentName: Bip001 L Thigh
+      position: {x: -0.3986885, y: -0.0000000047683715, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Bip001 L Foot
+      parentName: Bip001 L Calf
+      position: {x: -0.46303824, y: -0.0000000047683715, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999999}
+    - name: Bip001 L Toe0
+      parentName: Bip001 L Foot
+      position: {x: -0.094046794, y: 0.09338024, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000008, y: 1.0000002, z: 1.0000006}
+    - name: Bip001 L Toe0Nub
+      parentName: Bip001 L Toe0
+      position: {x: -0.07454921, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1.0000002, y: -1.0000002, z: -1.0000004}
+    - name: Bip001 R Thigh
+      parentName: Bip001 Spine
+      position: {x: 0.097920835, y: -0.012550449, z: -0.080567196}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000002}
+    - name: Bip001 R Calf
+      parentName: Bip001 R Thigh
+      position: {x: -0.39868852, y: -0.000000011920928, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999999}
+    - name: Bip001 R Foot
+      parentName: Bip001 R Calf
+      position: {x: -0.4630382, y: 0.0000000047683715, z: 0.0000000047683715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000004}
+    - name: Bip001 R Toe0
+      parentName: Bip001 R Foot
+      position: {x: -0.094046794, y: 0.09338023, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000006}
+    - name: Bip001 R Toe0Nub
+      parentName: Bip001 R Toe0
+      position: {x: -0.07454921, y: 0, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+    - name: Eye_R
+      parentName: Avatar_Kiana_C2_Model(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eye_L
+      parentName: Avatar_Kiana_C2_Model(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mouth
+      parentName: Avatar_Kiana_C2_Model(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: Avatar_Kiana_C2_Model(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Face
+      parentName: Avatar_Kiana_C2_Model(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hair
+      parentName: Avatar_Kiana_C2_Model(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
